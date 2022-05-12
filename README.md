@@ -6,4 +6,6 @@
 
 *-Details menu changed and "effects" tab added*
 
+*Added some "effects options" for single player game*
+
 Some bugs fixed
