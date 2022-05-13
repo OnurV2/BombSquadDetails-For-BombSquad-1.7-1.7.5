@@ -8,6 +8,8 @@ Some bugs fixed
 
 **5/12/2022:**
 
+*-Volume button removed from in-game menu*
+
 *-Added "Reconnect" button to in-game menu*
 
 *-Details menu changed and "effects" tab added*
