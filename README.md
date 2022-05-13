@@ -1,6 +1,10 @@
 # BombSquadDetailsV3 - Change Log
 
-# In-game details
+**5/13/2022:**
+
+*-Added features to check BombSquad updates with one click for Windows, Mac and Linux users*
+
+Some bugs fixed
 
 **5/12/2022:**
 
