@@ -1,5 +1,11 @@
 # BombSquadDetailsV3 - Change Log
 
+**5/14/2022:**
+
+*-Added "Paste" button to internal BombSquad keyboard*
+
+Some bugs fixed
+
 **5/13/2022:**
 
 *-Added features to check BombSquad updates with one click for Windows, Mac and Linux users*
