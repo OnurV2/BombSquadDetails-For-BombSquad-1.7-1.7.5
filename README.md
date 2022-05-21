@@ -1,5 +1,11 @@
 # BombSquadDetailsV3 - Changelog
 
+**5/21/2022:**
+
+*-Added "History" button to gather window*
+
+Some bugs fixed
+
 **5/14/2022:**
 
 *-Added "Paste" button to internal BombSquad keyboard*
