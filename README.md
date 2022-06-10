@@ -1,5 +1,13 @@
 # BombSquadDetailsV3 - Changelog
 
+**6/10/2022:**
+
+*-Account switch feature recreated*
+
+*-Changes have been made to the history window*
+
+Some bugs fixed
+
 **5/21/2022:**
 
 *-Added "History" button to gather window*
