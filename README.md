@@ -1,5 +1,11 @@
 # BombSquadDetailsV3 For BombSquad 1.7+ - Changelog
 
+**6/14/2022:**
+
+*-Added "add friend" feature*
+
+Some bugs fixed
+
 **6/10/2022:**
 
 *-Account switch feature recreated*
