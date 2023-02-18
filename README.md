@@ -1,4 +1,4 @@
-# BombSquadDetailsV3 For BombSquad 1.7-1.7.5 - Changelog
+# BombSquadDetails For BombSquad 1.7-1.7.5 - Changelog
 
 **6/14/2022:**
 
